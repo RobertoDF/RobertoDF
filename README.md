@@ -1,13 +1,3 @@
-<!-- Note: iframe will NOT render on GitHub due to security restrictions -->
-<iframe
-  src="https://rdef654875678597657-5-ht-transcriptomics.hf.space"
-  frameborder="0"
-  width="850"
-  height="450"
-></iframe>
-
-<br><br>
-
 <table align="center">
   <tr>
     <td style="border: 10px solid #D77A61; padding: 0;">
@@ -18,8 +8,6 @@
   </tr>
 </table>
 
-<br>
-
 <div align="center">
   <table>
     <tr>
@@ -29,8 +17,6 @@
     </tr>
   </table>
 </div>
-
-<br>
 
 <div align="center">
   <table>
