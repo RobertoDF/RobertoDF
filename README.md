@@ -7,28 +7,26 @@
     </td>
   </tr>
 </table>
+
 <p align="center">
   <strong>🔗 Try the live app:</strong> 
-  <a href=["https://rdef654875678597657-5-td-transcriptomics.hf.space"](https://rdef654875678597657-5-ht-transcriptomics.hf.space)>
+  <a href="https://rdef654875678597657-5-ht-transcriptomics.hf.space" target="_blank">
     HT-Transcriptomics on Hugging Face Spaces
   </a>
 </p>
-<div align="center">
-  <table>
-    <tr>
-      <td style="border: 10px solid #D77A61; padding: 0;">
-        <img src="./images-original.png" width="800">
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="border: 10px solid #D77A61; padding: 0;">
-        <img src="./bitches-brew.jpeg" width="800">
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td style="border: 10px solid #D77A61; padding: 0;">
+      <img src="./images-original.png" width="800">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td style="border: 10px solid #D77A61; padding: 0;">
+      <img src="./bitches-brew.jpeg" width="800">
+    </td>
+  </tr>
+</table>
